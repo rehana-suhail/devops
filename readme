@@ -1,1 +1,2 @@
 ansible-playbook -i hosts site.yml
+docker run -itd -P mysql
