@@ -1,4 +1,3 @@
 ansible-playbook -i hosts site.yml
 docker run -itd -P mysql
-
 kubectl apply -f mysql.yml
