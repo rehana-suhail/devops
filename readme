@@ -1,1 +1,3 @@
 ansible-playbook -i hosts site.yml
+
+kubectl apply -f mysql.yml
